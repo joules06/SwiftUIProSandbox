@@ -11,7 +11,12 @@ import SwiftUI
 struct SwiftUIProDemoApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            //ContentView()
+            //AdaptiveLayoutsView()
+            //EqualWitdhLayoutView()
+            //FirstParticleDrawingView()
+            //FallingSnowView()
+            AssertAutorefreshingView()
         }
     }
 }
