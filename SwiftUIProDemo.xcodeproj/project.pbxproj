@@ -23,6 +23,7 @@
 		7DB9D0FF28D00C67009A16F1 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DB9D0FE28D00C67009A16F1 /* ContentView.swift */; };
 		7DB9D10128D00C68009A16F1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7DB9D10028D00C68009A16F1 /* Assets.xcassets */; };
 		7DB9D10428D00C68009A16F1 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7DB9D10328D00C68009A16F1 /* Preview Assets.xcassets */; };
+		7DCDDEED290CAECE00AAC686 /* MultipleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DCDDEEC290CAECE00AAC686 /* MultipleView.swift */; };
 		7DD7461F28D3835900F439A1 /* EqualHeightLayoutView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DD7461E28D3835900F439A1 /* EqualHeightLayoutView.swift */; };
 		7DE9286A28D8DCCA00B4A69A /* LavaEffectView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DE9286928D8DCCA00B4A69A /* LavaEffectView.swift */; };
 		7DE9286C28D8E12100B4A69A /* LabeledContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DE9286B28D8E12100B4A69A /* LabeledContentView.swift */; };
@@ -46,6 +47,7 @@
 		7DB9D0FE28D00C67009A16F1 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		7DB9D10028D00C68009A16F1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7DB9D10328D00C68009A16F1 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		7DCDDEEC290CAECE00AAC686 /* MultipleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MultipleView.swift; sourceTree = "<group>"; };
 		7DD7461E28D3835900F439A1 /* EqualHeightLayoutView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EqualHeightLayoutView.swift; sourceTree = "<group>"; };
 		7DE9286928D8DCCA00B4A69A /* LavaEffectView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LavaEffectView.swift; sourceTree = "<group>"; };
 		7DE9286B28D8E12100B4A69A /* LabeledContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LabeledContentView.swift; sourceTree = "<group>"; };
@@ -100,6 +102,7 @@
 				7DA3EF49290B79ED00918FF9 /* MultipleOnAppearView.swift */,
 				7DA3EF4B290B7CB900918FF9 /* AutorefreshingView.swift */,
 				7DA3EF4D290B805900918FF9 /* AssertAutorefreshingView.swift */,
+				7DCDDEEC290CAECE00AAC686 /* MultipleView.swift */,
 			);
 			path = SwiftUIProDemo;
 			sourceTree = "<group>";
@@ -196,6 +199,7 @@
 				7D178CB128D2B6F700FEE9E6 /* EqualWitdhLayoutView.swift in Sources */,
 				7D2BFBA228D93E2000AF132B /* BackgroundBlobView.swift in Sources */,
 				7DB9D0FD28D00C67009A16F1 /* SwiftUIProDemoApp.swift in Sources */,
+				7DCDDEED290CAECE00AAC686 /* MultipleView.swift in Sources */,
 				7D023C1D28F343580032D900 /* DebounceDemoSwiftView.swift in Sources */,
 				7DA3EF4C290B7CB900918FF9 /* AutorefreshingView.swift in Sources */,
 				7D5F6B8A28D3CCCE000F6D2D /* FallingSnowView.swift in Sources */,

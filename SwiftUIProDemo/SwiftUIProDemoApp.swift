@@ -16,7 +16,7 @@ struct SwiftUIProDemoApp: App {
             //EqualWitdhLayoutView()
             //FirstParticleDrawingView()
             //FallingSnowView()
-            AssertAutorefreshingView()
+            MultipleView()
         }
     }
 }
